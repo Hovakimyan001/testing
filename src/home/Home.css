@@ -1,0 +1,11 @@
+.container {
+    height: 100vh;
+    background: slategray;
+    display: grid;
+    place-items: center;
+    font-size: 50px;
+    color: #fff;
+    position: sticky;
+    top: 0;
+    border: 1px solid;
+}
